@@ -41,6 +41,7 @@ function App() {
           배포 시간: {new Date().toLocaleString('ko-KR')}
         </p>
         12 / 40
+        <h1>Deploy Preview 테스트</h1>
       </footer>
     </div>
   );
